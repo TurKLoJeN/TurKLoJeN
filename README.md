@@ -1,4 +1,4 @@
-![MasterHead](https://i.hizliresim.com/pzhm4m6.jfif)(https://github.com/TurKLoJeN)
+![MasterHead](https://i.hizliresim.com/pzhm4m6.jfif)
 
 <h3 align="center">A passionate developer and bug hunter from Turkey</h3>
 
