@@ -1,9 +1,4 @@
-![MasterHead]![banner](https://github.com/TurKLoJeN/TurKLoJeN/assets/32311900/60ff8159-9afb-48a5-9139-f025be45b2cb)
-
-
-![banner](https://github.com/TurKLoJeN/TurKLoJeN/assets/32311900/60ff8159-9afb-48a5-9139-f025be45b2cb)
-
-![banner](https://github.com/TurKLoJeN/TurKLoJeN/assets/32311900/60ff8159-9afb-48a5-9139-f025be45b2cb)
+![MasterHead]![f](https://github.com/TurKLoJeN/TurKLoJeN/assets/32311900/566a2692-537f-4f20-a1c9-db8227a3c100)
 
 <h3 align="center">A passionate developer and bug hunter from Turkey</h3>
 
