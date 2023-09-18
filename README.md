@@ -1,4 +1,4 @@
-![MasterHead](https://i.hizliresim.com/pzhm4m6.jfif)
+![MasterHead](https://i.hizliresim.com/l81sff8.jpeg)
 
 <h3 align="center">A passionate developer and bug hunter from Turkey</h3>
 
