@@ -1,5 +1,10 @@
 ![MasterHead]![banner](https://github.com/TurKLoJeN/TurKLoJeN/assets/32311900/60ff8159-9afb-48a5-9139-f025be45b2cb)
 
+
+![banner](https://github.com/TurKLoJeN/TurKLoJeN/assets/32311900/60ff8159-9afb-48a5-9139-f025be45b2cb)
+
+![banner](https://github.com/TurKLoJeN/TurKLoJeN/assets/32311900/60ff8159-9afb-48a5-9139-f025be45b2cb)
+
 <h3 align="center">A passionate developer and bug hunter from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turklojen&label=Profile%20views&color=0e75b6&style=flat" alt="turklojen" /> </p>
