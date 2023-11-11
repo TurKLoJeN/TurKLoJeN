@@ -1,5 +1,4 @@
-![MasterHead](https://github.com/TurKLoJeN/TurKLoJeN/assets/32311900/566a2692-537f-4f20-a1c9-db8227a3c100)
-
+![MasterHead](https://github.com/TurKLoJeN/TurKLoJeN/assets/32311900/22795403-b272-4d2f-8d09-b1899a76161a)
 <h3 align="center">A passionate developer and bug hunter from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turklojen&label=Profile%20views&color=0e75b6&style=flat" alt="turklojen" /> </p>
