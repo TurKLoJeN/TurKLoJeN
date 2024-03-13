@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **turklojenofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Hy3NLZXubmMxGizHlcdrI4Zkr13ucJEp/view?usp=share_link](https://drive.google.com/file/d/1Hy3NLZXubmMxGizHlcdrI4Zkr13ucJEp/view?usp=share_link)
+- 📄 Know about my experiences [www.turklojen.com.tr](https://turklojen.com.tr/Home/CV/)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
